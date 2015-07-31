@@ -7,7 +7,7 @@ Set-Up:
 
 1. Download the latest version of foobar
 2. Find your installed foobar folder, add the provided component dll files to your components.
-	(For a direct download of these components from the foobar website, visit the Documentation file).
+(For a direct download of these components from the foobar website, visit the Documentation file).
 3. Add Nadia815.fth inside the themes folder.
 4. Start foobar.  File -> Preferences -> Display -> Default User Interface -> Import Theme -> Nadia815.fth
 5. Enjoy.

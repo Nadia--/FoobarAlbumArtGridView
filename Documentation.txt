@@ -9,6 +9,9 @@ http://www.foobar2000.org/components
 2. Lyrics Show Panel 3 (foo_uie_lyrics3.dll) http://www.foobar2000.org/components/view/foo_uie_lyrics3
 	- This displays song lyrics, scrolling.
 
+3. Audio Scrobbler (foo_audioscrobbler.dll) http://www.foobar2000.org/components/view/foo_audioscrobbler
+	- Scrobbles songs to last.fm
+
 
 Another great component, if you would like to experiment with your own layout, 
 is Simplaylist (http://www.foobar2000.org/components/view/foo_simplaylist).
